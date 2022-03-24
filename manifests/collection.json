@@ -1,0 +1,13 @@
+{
+  "id" : "https://Pippa-W.github.io/Music/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Pippa-W/Music project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Pippa-W.github.io/Music/manifests/Musicmanifest.json",
+    "label" : "[Click to edit label]"
+  } ]
+}
